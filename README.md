@@ -15,9 +15,7 @@ Resources:
 
 ## Lecture 2 - repeating the basics, prep for scraping
 
-- recap of the basics
-- what is a library
-- making a simple scraper
+- going through the homework
 
 Resources:
 - [Python for journalism](https://datajournalism.com/watch/python-for-journalists/) - going through the same concepts as our course: basics, simple scraping and pandas
