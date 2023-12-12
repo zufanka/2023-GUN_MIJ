@@ -27,6 +27,7 @@ going through the homework
 
 ### Resources
 - [101 webscraping and research tasks for the data journalist](https://github.com/stanfordjournalism/search-script-scrape#the-tasks)
+- [Book: Scraping for Journalists](https://leanpub.com/scrapingforjournalists)
 
 ## Day 2 - scraping + data analysis
 
