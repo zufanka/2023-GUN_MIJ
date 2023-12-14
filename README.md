@@ -21,7 +21,6 @@
 going through the homework
 
 ### Resources:
-- [Python for journalism](https://datajournalism.com/watch/python-for-journalists/) - going through the same concepts as our course: basics, simple scraping and pandas
 
 ## Day 1 - scraping
 
@@ -35,4 +34,8 @@ going through the homework
 
 
 Resources:
+- [Python for journalism](https://datajournalism.com/watch/python-for-journalists/) - going through the same concepts as our course: basics, simple scraping and pandas
 - Udemy: [Data analysis with pandas ](https://www.udemy.com/course/data-analysis-with-pandas/)
+
+## There is more!
+- Text analysis: [nltk](https://www.nltk.org/), [spacy](https://spacy.io/)
